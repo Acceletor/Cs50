@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .click_here {
+      display: inline-block;
+      padding: 15px 25px;
+      font-size: 24px;
+      cursor: pointer;
+      text-align: center;
+      text-decoration: none;
+      outline: none;
+      color: #fff;
+      background-color: #93B1A6;
+      border: none;
+      border-radius: 15px;
+      box-shadow: 0 9px #999;
+    }
+  
+    .click_here:hover {background-color: #5C8374}
+  
+    .click_here:active {
+      background-color: #183D3D;
+      box-shadow: 0 5px #666;
+      transform: translateY(4px);
+    }
+  
+  #arrowright, #arrowleft{
+    font-size: 50px;
+    border: none;
+  
+  }
+  .bg-body-tertiary
+  {
+    background-color: #E4E4D0;
+  }
+  
