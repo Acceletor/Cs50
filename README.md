@@ -1,1 +1,1 @@
-# Cs50-Harvard
+# Cs50
